@@ -1,0 +1,51 @@
+form {
+    text-align: center;
+    width: 70%;
+    margin: 2rem auto 0 auto;
+}
+
+.home {
+    width: 90%;
+    margin: 10px;
+}
+
+.subtitle {
+    padding: 10px;
+}
+
+
+.buttons {
+    text-align: center;
+    width: 95%;
+}
+
+
+.return {
+    width: 70%;
+    margin: 0;
+    background-color: black;
+    cursor: pointer;
+    transition: all .5s ease-in-out;
+}
+
+.return i {
+    color: white;
+    transition: all .5s ease-in-out;
+}
+
+.return:hover>i {
+    color: green;
+}
+
+.return:hover {
+    color: green;
+}
+
+
+textarea {
+    resize: none;
+}
+
+.form {
+    width: 100%;
+}

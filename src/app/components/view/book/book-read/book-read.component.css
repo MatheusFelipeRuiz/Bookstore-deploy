@@ -1,0 +1,60 @@
+@import url('https://fonts.googleapis.com/css2?family=Titillium+Web:wght@200;300&display=swap');
+
+.content {
+    width: 90%;
+    margin: 1.4rem auto auto auto;
+}
+
+.title {
+    text-align: center;
+    margin-bottom: 3rem;
+}
+
+.title h1 {
+    font-size: 2.5rem;
+    font-weight: bold;
+    color: rgb(173, 169, 169);
+    font-family: 'Titillium Web', sans-serif;
+}
+
+.add-book {
+    color: green;
+}
+
+.add-book:hover {
+    background-color: rgba(255, 255, 255, 0.705);
+}
+
+.actions {
+    width: 5rem;
+}
+
+.eye {
+    margin-left: 15px;
+    color: black;
+    transition: all .5s ease-in-out;
+}
+
+.eye:hover {
+    color: white;
+}
+
+.edit {
+    color: black;
+    font-size: 2rem;
+    transition: all .5s ease-in-out;
+}
+
+.edit:hover {
+    color: white;
+}
+
+.delete {
+    color: red;
+    font-size: 2rem;
+    transition: all .5s ease-in-out;
+}
+
+.delete:hover {
+    color: white;
+}

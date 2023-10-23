@@ -1,0 +1,21 @@
+.home {
+    padding-left: .5rem;
+    padding-top: .4rem;
+    width: 95%;
+    margin: 1rem auto;
+}
+
+.title {
+    text-align: center;
+    font-size: 2rem;
+}
+
+.subtitle {
+    text-align: center;
+}
+
+@media(max-width: 450px) {
+    .home {
+        width: 65%;
+    }
+}

@@ -1,0 +1,13 @@
+0000000000000000000000000000000000000000 f77973200ac2cdbc6e9b446bf8050e640e228828 MatheusFelipeRuiz <matheus57.ruiz100@gmail.com> 1697312166 -0300	commit (initial): initial commit
+f77973200ac2cdbc6e9b446bf8050e640e228828 a32e9185df0953dcc70573926347abc00fae6337 MatheusFelipeRuiz <matheus57.ruiz100@gmail.com> 1697312548 -0300	commit: Projeto base
+a32e9185df0953dcc70573926347abc00fae6337 75ca47c652ad7c2a6482ffc82e49a25119dd21f5 MatheusFelipeRuiz <matheus57.ruiz100@gmail.com> 1697316527 -0300	commit: Home implementada com rota
+75ca47c652ad7c2a6482ffc82e49a25119dd21f5 aceb358ff4be8da44e2d55823ed28b370dc53186 MatheusFelipeRuiz <matheus57.ruiz100@gmail.com> 1697325111 -0300	commit: Tabela categoria
+aceb358ff4be8da44e2d55823ed28b370dc53186 de1ec7dde2b85308a5d4f94139128686405234aa MatheusFelipeRuiz <matheus57.ruiz100@gmail.com> 1697927754 -0300	commit: Criação de categorias
+de1ec7dde2b85308a5d4f94139128686405234aa 65295599e4d360573f472fa82e6b404bc18de5de MatheusFelipeRuiz <matheus57.ruiz100@gmail.com> 1697943281 -0300	commit: Edição e Remoção de Categorias
+65295599e4d360573f472fa82e6b404bc18de5de e46061ab526cd92e9f4e769e7aaf1a04523c1098 MatheusFelipeRuiz <matheus57.ruiz100@gmail.com> 1697981742 -0300	commit: Livros Read
+e46061ab526cd92e9f4e769e7aaf1a04523c1098 adec7ea0745cad750d8377a314d388b077ab7bbd MatheusFelipeRuiz <matheus57.ruiz100@gmail.com> 1697987428 -0300	commit: Delete de Livros
+adec7ea0745cad750d8377a314d388b077ab7bbd d6c16c6c5da8d59826e0e8ebb3a3fd6b04a698d2 MatheusFelipeRuiz <matheus57.ruiz100@gmail.com> 1698001540 -0300	commit: Criação de livros
+d6c16c6c5da8d59826e0e8ebb3a3fd6b04a698d2 bb3f68867db9d783e09cfc352eaeb1785b15bd74 MatheusFelipeRuiz <matheus57.ruiz100@gmail.com> 1698003807 -0300	commit: Edição de livro
+bb3f68867db9d783e09cfc352eaeb1785b15bd74 1ce7d9153f00d1484c0f30dd4bfb775801fb0f82 MatheusFelipeRuiz <matheus57.ruiz100@gmail.com> 1698007169 -0300	commit: Visualização do texto do livro
+1ce7d9153f00d1484c0f30dd4bfb775801fb0f82 ff5b21bf22464b3fd0637a2c8809a8a9ab9ed4ad MatheusFelipeRuiz <matheus57.ruiz100@gmail.com> 1698017589 -0300	commit: Validações de cadastro de livro
+ff5b21bf22464b3fd0637a2c8809a8a9ab9ed4ad 625044996f2cb9096aee81033c0d34a57a4afe53 MatheusFelipeRuiz <matheus57.ruiz100@gmail.com> 1698056280 -0300	commit: Modificação visualização do livro

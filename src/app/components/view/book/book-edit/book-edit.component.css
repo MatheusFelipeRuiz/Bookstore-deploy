@@ -1,0 +1,19 @@
+form {
+    text-align: center;
+    width: 70%;
+    margin: 2rem auto 0 auto;
+}
+
+h1 {
+    font-size: 2rem;
+    margin-bottom: 1rem;
+}
+
+
+.form {
+    width: 100%;
+}
+
+button {
+    margin: auto 10px;
+}
